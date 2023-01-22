@@ -1,0 +1,23 @@
+header {
+    background-color: beige; height: 200px; width: 100%;
+    color: blue;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 38px;
+}
+h1 {color: red; 
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+footer {
+    background-color: orangered; height: 200px; width: 100%;
+    color: pink;
+    text-align:end; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 20px;
+}
